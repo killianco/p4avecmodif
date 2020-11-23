@@ -362,6 +362,8 @@ a:hover {
     z-index: 2;
 }
 
+
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -677,7 +679,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 1.1em;
 }
 
 .tight-width-whitespace {
@@ -707,6 +709,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    
 }
 
 h3 {
@@ -822,7 +825,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
